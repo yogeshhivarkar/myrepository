@@ -4,7 +4,8 @@ public class Abc
 	{
 	
 		System.out.println("hii Yogesh");
-		System.out.println("hii Yogesh");System.out.println("hii Yogesh");
+		System.out.println("hii Yogesh");
+		System.out.println("hii Yogesh");
 		
 		
 	}
